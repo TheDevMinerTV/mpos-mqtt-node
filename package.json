@@ -1,0 +1,22 @@
+{
+  "name": "mpos-mqtt-node",
+  "version": "0.0.1",
+  "description": "This package contains a mqtt client for interfacing with the MPOS API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "mpos"
+  ],
+  "author": "TheDevMinerTV",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "underscore": "^1.9.1",
+    "urijs": "^1.19.1"
+  }
+}

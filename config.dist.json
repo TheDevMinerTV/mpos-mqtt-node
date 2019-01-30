@@ -1,0 +1,21 @@
+{
+    "pool": {
+        "address": "https://emc2.suprnova.cc",
+        "apikey": "ffa842602cvg0a097245784dd0d1869d8b2342015a75aefed1fe80aed7ed5c17",
+        "userid": "423"
+    },
+    "mqtt": {
+        "broker": "mqtt://localhost",
+        "servertype": "mosquitto",
+        "username": "",
+        "token": "",
+        "feeds": {
+            "network": "emc2.network",
+            "pool": "emc2.pool",
+            "topusers": "emc2.topusers",
+            "user": "emc2.user",
+            "workers": "emc2.workers",
+            "info": "emc2.info"
+        }
+    }
+}
