@@ -1,8 +1,8 @@
 {
     "pool": {
-        "address": "https://emc2.suprnova.cc",
-        "apikey": "ffa842602cvg0a097245784dd0d1869d8b2342015a75aefed1fe80aed7ed5c17",
-        "userid": "423"
+        "address": "https://start.thecoin.pw/",
+        "apikey": "daa859602ced0d097245784dd0d4369d8b2342015a75aefed1fe80aed7ed5c17",
+        "userid": "114"
     },
     "mqtt": {
         "broker": "mqtt://localhost",
@@ -10,12 +10,12 @@
         "username": "",
         "token": "",
         "feeds": {
-            "network": "emc2.network",
-            "pool": "emc2.pool",
-            "topusers": "emc2.topusers",
-            "user": "emc2.user",
-            "workers": "emc2.workers",
-            "info": "emc2.info"
+            "network": "start.network",
+            "pool": "start.pool",
+            "topusers": "start.topusers",
+            "user": "start.user",
+            "workers": "start.workers",
+            "info": "start.info"
         }
     }
 }
