@@ -13,7 +13,7 @@
   "author": "TheDevMinerTV",
   "license": "MIT",
   "dependencies": {
-    "mqtt": "^2.18.8",
+    "mqtt": "^3.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "underscore": "^1.9.1",
