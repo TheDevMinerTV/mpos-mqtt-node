@@ -16,7 +16,7 @@
     "mqtt": "^3.0.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "urijs": "^1.19.6"
   }
 }
